@@ -1,4 +1,4 @@
-module github.com/chuck-dubya/tflint-rule-extensions
+module github.com/intellum/tflint-rule-extensions
 
 go 1.22.3
 
