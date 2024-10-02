@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/chuck-dubya/tflint-rule-extensions/rules"
+	"github.com/intellum/tflint-rule-extensions/rules"
 	"github.com/terraform-linters/tflint-plugin-sdk/plugin"
 	"github.com/terraform-linters/tflint-plugin-sdk/tflint"
 )
