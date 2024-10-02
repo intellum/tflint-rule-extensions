@@ -1,6 +1,6 @@
 module github.com/intellum/tflint-rule-extensions
 
-go 1.22.3
+go 1.23.1
 
 require github.com/terraform-linters/tflint-plugin-sdk v0.21.0
 
