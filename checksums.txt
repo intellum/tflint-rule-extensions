@@ -1,1 +1,1 @@
-02a6e24a5eafdcc6cedd6287b88d662647488f67fcdb7a8032dff0471df701a7  tflint-ruleset-tflint-rule-extensions_linux_amd64.zip
+9ae3bedecfca644198a74ae55e17acc2ba84c9fa377db79fa177956b29b1a73d  tflint-ruleset-tflint-rule-extensions_linux_amd64.zip
